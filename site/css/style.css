@@ -63,6 +63,7 @@ h5 {
   font-weight: 400;
   color: #d2c970;
 }
+
 p a:hover {
   text-decoration: underline;
 }
@@ -216,7 +217,7 @@ q + .img {
 .parallax h2,
 .parallax h4,
 .parallax h6 {
-  color: #ffffff;
+  color:  #000000;
 }
 .parallax01 {
   background-color: #FFF;
@@ -355,7 +356,7 @@ blockquote q:before {
 =========================================================*/
 header {
   position: relative;
-  color: #ffffff;
+  color:  #707068;
   background: #f1f1e6;
   text-align: center;
 }
